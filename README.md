@@ -1,4 +1,4 @@
-# <small>Digital Nurture 4.0 Java FSE Weekly Hands-on Exercises Solutions Submission</small>
+# Digital Nurture 4.0 Java FSE Weekly Hands-on Exercises Solutions Submission
 
 # Superset ID :- 6419173
 

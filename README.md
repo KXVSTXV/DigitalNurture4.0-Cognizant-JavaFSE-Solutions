@@ -8,6 +8,7 @@
 
 Folder Structure ---
 
+```
 Week_Number (Topic)
 ├── Module_name
 │   ├── Ex-1 Exercise_Name
@@ -17,3 +18,4 @@ Week_Number (Topic)
 │   │   └── (other files)
 │   └── (more exercises...)
 └── (more modules...)
+```
